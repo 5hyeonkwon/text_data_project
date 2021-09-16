@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+*.pdf
+*.xlsx
+*.txt
+.model
+.vocab
